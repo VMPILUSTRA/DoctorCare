@@ -611,6 +611,13 @@ footer .social-links {
     line-height: 5.2rem;
   }
 
+  #backToTopButton.show {
+    opacity: 1;
+    visibility: visible;
+  
+    transform: translateY(0);
+  }
+
   /* ====================== NAVIGATION =============================*/
 
   /* reset */
