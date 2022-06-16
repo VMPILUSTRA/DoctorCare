@@ -1,5 +1,7 @@
 /* 'ADDEVENTLISTENER' - Adicione um evento ('event') ('scroll', 'click', 'load', 'mouseover', ... ) a função tal ('listener') */
 
+const navigation = document.getElementById.('navigation')
+
 window.addEventListener('scroll', onScroll)
 
 onScroll()
