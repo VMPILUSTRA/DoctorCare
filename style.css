@@ -233,6 +233,11 @@ nav .close-menu {
   position: fixed;
 }
 
+nav .open-menu,
+nav .close-menu {
+  -webkit-tap-highlight-color: transparent;
+}
+
 /* ====================== MENU-EXPANDED =============================*/
 
 body.menu-expanded {
