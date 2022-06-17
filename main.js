@@ -153,9 +153,9 @@ ScrollReveal({
     console.log(name)
   }
 
-  ayMyName("vinicius");
-  ayMyName("Cláudio");
-  ayMyName("Dudu");
+  sayMyName("vinicius");
+  sayMyName("Cláudio");
+  sayMyName("Dudu");
  
   //  a função faz console.log do nome escrito (parâmetro) ao chamá-la
 
